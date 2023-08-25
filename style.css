@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@500&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@500&display=swap");
 
 * {
     padding: 0;
@@ -116,6 +116,7 @@ main {
 }
 
 .cards-container {
+    padding-top: 100px;
     justify-content: space-between;
     flex-wrap: wrap;
     row-gap: 20px;
